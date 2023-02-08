@@ -11,6 +11,8 @@ public class Main {
 		Hotel h2 = new Hotel("Hermes");
 		Hotel h3 = new Hotel("CityHotel");
 		Hotel h4 = new Hotel("Panorama");
+
+		System.out.println("These are the hotels!");
 		
 		ArrayList<Hotel> hotels = new ArrayList<Hotel>();
 		hotels.add(h1);
